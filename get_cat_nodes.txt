@@ -1,0 +1,13 @@
+ip           heap.percent ram.percent cpu load_1m load_5m load_15m node.role master name
+10.100.2.113           46          98  20    2.98    3.14     3.06 cfhilrstw -      evelkwkn04.corp.fin
+10.100.5.190           55          99  79   12.62   14.39    15.19 cfhlrstw  -      evelkwkn02.corp.fin
+10.100.2.115           65          98  55    2.91    2.77     2.39 cfhlrstw  -      evelkwkn05.corp.fin
+10.100.5.193           56          96  62    4.50    6.91     7.63 chlrstw   -      evelkwkn01.corp.fin
+10.100.5.189           52          99  15    0.29    0.75     1.25 f         -      evelkwkn03.corp.fin
+10.100.2.125           23          96   5    0.35    0.42     0.44 f         -      evelkwkn06.corp.fin
+10.100.2.47            37          83   3    1.32    1.25     1.30 i         -      evelkinn01.corp.fin
+10.100.2.208           60          94  63    0.38    0.15     0.13 lm        -      evelkmnn04.corp.fin
+10.100.5.196            7          97   9    1.15    0.52     0.37 m         -      evelkmnn01.corp.fin
+10.100.2.101            5          96   8    0.27    0.20     0.18 m         -      evelkmnn05.corp.fin
+10.100.5.186           45          97  57    0.55    0.50     0.74 m         -      evelkmnn03.corp.fin
+10.100.2.109           36          96  15    0.37    0.28     0.29 m         *      evelkmnn06.corp.fin
